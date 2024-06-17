@@ -89,3 +89,13 @@ SUM(IF YEAR([Date]) = YEAR(TODAY()) THEN [Price ($)] ELSE 0 END) / SUM(IF YEAR([
 SUM(IF YEAR([Date]) = YEAR(TODAY()) THEN 1 ELSE 0 END)) - 
 (SUM(IF YEAR([Date]) = YEAR(TODAY()) - 1 THEN [Price ($)] ELSE 0 END) / 
 SUM(IF YEAR([Date]) = YEAR(TODAY()) - 1 THEN 1 ELSE 0 END))
+
+### Final Dashboard 
+
+![Screenshot (82)](https://github.com/Kedhar193/Tableau-project/assets/115712936/1616334e-7723-45aa-9180-736179b633c1)
+
+### Source
+
+I completed this project following a youtube tutorial . This YouTube tutorial guided me through each step of the process, allowing me to achieve the desired results effectively.
+
+link for source : https://youtu.be/KgJA9Up7O1s?si=v1xCbX5I4h4h92Kn
