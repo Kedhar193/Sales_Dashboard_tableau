@@ -1,4 +1,32 @@
-# Sales Data Dashboard
+# Car Sales Dashboard
+
+## Background
+Our company operates as a car dealership selling various car models. To effectively monitor and analyze our sales performance, we are developing a dynamic and interactive Car Sales Dashboard using Power BI. This dashboard aims to visualize key performance indicators (KPIs) related to our car sales, providing insights to drive informed decisions and identify growth opportunities.
+
+## Objectives
+The objective of this project is to create a comprehensive Car Sales Dashboard in Power BI that visualizes critical KPIs and sales metrics. The dashboard will help us track:
+- Year-to-Date (YTD) Total Sales
+- Year-over-Year (YOY) Growth in Total Sales
+- YTD Average Price and YOY Growth in Average Price
+- YTD Cars Sold and YOY Growth in Cars Sold
+
+## Problem Statement 1: KPI’s Requirement
+The dashboard will provide real-time insights into our sales performance through various KPIs:
+- YTD Total Sales
+- YOY Growth in Total Sales
+- YTD Average Price
+- YOY Growth in Average Price
+- YTD Cars Sold
+- YOY Growth in Cars Sold
+
+## Problem Statement 2: Charts Requirement
+The dashboard will include the following visualizations to enhance data understanding and decision-making:
+- **YTD Sales Weekly Trend**: A line chart illustrating the weekly trend of YTD sales.
+- **YTD Total Sales by Body Style**: A Pie chart showing the distribution of YTD total sales across different car body styles.
+- **YTD Total Sales by Color**: A Donut chart presenting the contribution of various car colors to YTD total sales.
+- **YTD Cars Sold by Dealer Region**: A Bar chart showcasing YTD sales data based on different dealer regions.
+- **Company-Wise Sales Trend in Grid Form**: A tabular grid displaying the sales trend for each company along with their YTD sales figures.
+
 
 ## Data Fields and Descriptions
 
