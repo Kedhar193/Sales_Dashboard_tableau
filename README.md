@@ -92,7 +92,8 @@ SUM(IF YEAR([Date]) = YEAR(TODAY()) - 1 THEN 1 ELSE 0 END))
 
 ### Final Dashboard 
 
-![Screenshot (82)](https://github.com/Kedhar193/Tableau-project/assets/115712936/1616334e-7723-45aa-9180-736179b633c1)
+![Screenshot (84)](https://github.com/Kedhar193/Tableau-project/assets/115712936/7e133f0a-fa63-4625-9be4-9216d5f70a70)
+
 
 ### Source
 
